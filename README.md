@@ -1,11 +1,11 @@
- <p XCESS || align="left"> <img src="https://komarev.com/ghpvc/?username=xcess9999&label=Profile%20views&color=0e75b6&style=flat" alt="xcess9999" /> </p>
+ <a align="left" > <h1>Hey Brah !<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40" height="40"> | <img src="https://komarev.com/ghpvc/?username=xcess9999&label=Profile%20views&color=0e75b6&style=flat" alt="xcess9999" /> </a> </h1>
 
 <hr>
 
 ![image](https://cdn.discordapp.com/attachments/854715584833650709/865145658050609152/R.gif)
 
 
-<h1 align="center">Hi 👋, this is Anshuman singh</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40" height="40">, this is Anshuman singh</h1>
 <h3 align="center">A Boy Tring To be good</h3>
 
 
@@ -22,34 +22,50 @@
 
 <hr>
 
-
-- 🔭 I’m currently working on **Fliko**
-
-- 🌱 I’m currently learning **C language**
-
-- 👯 I’m looking to collaborate on **My heart xD**
-
-- 🤝 I’m looking for help with **My frnds**
-
-- 👨‍💻 All of my projects are available at [Comming sooon....](Comming sooon....)
-
-- 📝 I regularly write articles on [https://bitchitz.me/](https://bitchitz.me/)
-
-- 💬 Ask me about **Nothing xD**
-
-- 📫 How to reach me **aashu@bitchitz.me**
-
-- 📄 Know about my experiences [0 XD](0 XD)
-
-- ⚡ Fun fact **this wrold is a hoax**
+```python
+import json
+from dataclasses import asdict,dataclass
 
 
+@dataclass
+class Stack:
+    languages   : tuple[str] = ("Python", "Javascript", "HTML", "CSS")
+    misc        : tuple[str] = ("Docker", "Linux", "FastAPI")
+    ongoing     : tuple[str] = ("C", "CPP, ")
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+    def serialize(self):
+        return json.dumps(asdict(self), indent=4)
 
+
+stack = Stack()
+print(stack.serialize())
+printf("Thanks For Visiting See You again")
+
+```**
+
+<hr>
+
+
+
+
+<h3 align="left">Languages :</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> </a>
+ <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank">
+ <div>
+ <h3 align="left">Tools:</h3>
+ <div>
+ <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
+ <h3 align="left">Database :</h3>
+ <div>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> </a> <a href="https://www.python.org" target="_blank"> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+
+  <hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xcess9999&show_icons=true&locale=en&layout=compact" alt="xcess9999" /></p>
+  
+  <hr>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xcess9999&show_icons=true&locale=en" alt="xcess9999" /></p>
 
+  <hr>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xcess9999&" alt="xcess9999" /></p>
