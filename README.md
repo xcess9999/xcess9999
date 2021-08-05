@@ -2,7 +2,7 @@
 
 <hr>
 
-![image](https://cdn.discordapp.com/attachments/854715584833650709/872884576714883072/GIF-210730_125632.gif)
+![image](https://www.behance.net/gallery/68097599/Banner-Images-for-Coding-Challenges/modules/398083403)
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40" height="40">, this is Anshuman singh</h1>
