@@ -1,4 +1,4 @@
- <a align="left" > <h1>Hey Brah !<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40" height="40"> | <img src="https://komarev.com/ghpvc/?username=xcess9999&label=Profile%20views&color=0e75b6&style=flat" alt="xcess9999" /> </a> </h1>
+ <a align="left" > <h1>Hey Bruh !<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40" height="40"> | <img src="https://komarev.com/ghpvc/?username=xcess9999&label=Profile%20views&color=0e75b6&style=flat" alt="xcess9999" /> </a> </h1>
 
 <hr>
 
