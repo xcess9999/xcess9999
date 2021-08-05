@@ -2,7 +2,7 @@
 
 <hr>
 
-![image](https://cdn.discordapp.com/attachments/854715584833650709/872885687546941440/79731568097599.png)
+![image](https://t3.ftcdn.net/jpg/01/88/08/56/360_F_188085657_iTNqxvRiOeD0uqiqWXl8pIh0W7Ei46ed.jpg)
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40" height="40">, this is Anshuman singh</h1>
